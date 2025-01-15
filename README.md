@@ -1,1 +1,1 @@
-# app-with-argocd
+### 🦁 멋쟁이 사자처럼 : ArgoCD와 애플리케이션의 연결
